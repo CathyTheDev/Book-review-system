@@ -85,7 +85,7 @@ book-review-api/
 └── README.md             
 ```
 
-## Future Improvements
+##  Improvements
 
 - Implemented rate limiting to prevent abuse.
 - Add more advanced filtering and sorting options for books and reviews.
